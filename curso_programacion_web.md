@@ -359,10 +359,33 @@ Programar te ayuda a:
 
 ## Referencias recomendadas (gratuitas)
 
-- MDN Web Docs (HTML, CSS, JavaScript)
-- GitHub Skills (aprendizaje guiado de Git/GitHub)
-- freeCodeCamp (práctica por proyectos)
-- JavaScript.info (explicaciones claras)
+- **Documentación confiable (para consultar conceptos):**
+	- MDN Web Docs: https://developer.mozilla.org/
+	- W3Schools: https://www.w3schools.com/
+	- JavaScript.info: https://javascript.info/
+
+- **Práctica guiada y ejercicios:**
+	- freeCodeCamp: https://www.freecodecamp.org/
+	- The Odin Project: https://www.theodinproject.com/
+	- Frontend Mentor (retos de maquetación): https://www.frontendmentor.io/
+
+- **Git y GitHub (muy recomendado al inicio):**
+	- GitHub Skills: https://skills.github.com/
+	- Documentación oficial de Git: https://git-scm.com/doc
+	- Atlassian Git Tutorials: https://www.atlassian.com/git/tutorials
+
+- **Canales y cursos de YouTube (nivel básico):**
+	- freeCodeCamp en YouTube: https://www.youtube.com/@freecodecamp
+	- midudev: https://www.youtube.com/@midulive
+	- Fazt Code: https://www.youtube.com/@FaztCode
+	- Traversy Media (inglés): https://www.youtube.com/@TraversyMedia
+
+- **Blogs y newsletters útiles:**
+	- CSS-Tricks: https://css-tricks.com/
+	- Smashing Magazine: https://www.smashingmagazine.com/
+	- web.dev (buenas prácticas web): https://web.dev/
+
+Sugerencia: usa **1 recurso principal** (por ejemplo MDN o freeCodeCamp) y **1 recurso de apoyo** (YouTube o blog) para evitar saturarte.
 
 ---
 
@@ -372,3 +395,21 @@ Programar te ayuda a:
 - Portafolio inicial para prácticas profesionales.
 - Confianza para continuar con React, backend o Python.
 - Base técnica para aplicar programación en proyectos reales de cualquier área.
+
+---
+
+## Material paso a paso por semanas (carpetas + ejemplos)
+
+Para hacerlo más fácil de compartir y seguir, el curso también está dividido en carpetas con guías y código de ejemplo:
+
+- [Semanas](semanas/README.md)
+- [Semana 01 - Setup](semanas/semana-01-setup/README.md)
+- [Semana 02 - HTML](semanas/semana-02-html/README.md)
+- [Semana 03 - CSS](semanas/semana-03-css/README.md)
+- [Semana 04 - Maqueta](semanas/semana-04-proyecto-maqueta/README.md)
+- [Semana 05 - JavaScript](semanas/semana-05-js-basico/README.md)
+- [Semana 06 - DOM y eventos](semanas/semana-06-dom-eventos/README.md)
+- [Semana 07 - APIs](semanas/semana-07-apis/README.md)
+- [Semana 08 - Portafolio](semanas/semana-08-portafolio/README.md)
+
+Si quieres usar esta guía con otras personas, puedes compartir primero este archivo y luego avanzar semana por semana desde la carpeta `semanas`.
