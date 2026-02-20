@@ -1,6 +1,6 @@
 # Ruta semanal del curso
 
-Este índice te permite avanzar paso a paso, sin saltarte fundamentos.
+Este índice organiza el aprendizaje en 8 semanas, de lo más básico a un portafolio final.
 
 ## Orden sugerido
 
@@ -13,9 +13,16 @@ Este índice te permite avanzar paso a paso, sin saltarte fundamentos.
 7. [Semana 07 - APIs](semana-07-apis/README.md)
 8. [Semana 08 - Portafolio final](semana-08-portafolio/README.md)
 
-## Reglas para cada semana
+## Regla de trabajo por semana
 
-- Lee la guía de la semana.
-- Ejecuta el ejemplo incluido.
-- Realiza el mini reto.
-- Haz al menos 3 commits con avances pequeños.
+1. Lee la guía completa.
+2. Reproduce el ejemplo del directorio `ejemplos/` cuando exista.
+3. Completa el mini reto.
+4. Haz al menos 3 commits pequeños.
+5. Sube cambios a GitHub.
+
+## Convención de commits recomendada
+
+- `docs: semana 01 guía`
+- `feat: agregar biografía HTML`
+- `fix: corregir enlace interno`
