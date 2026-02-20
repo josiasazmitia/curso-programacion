@@ -4,14 +4,14 @@
 
 Aplicar estilos para mejorar claridad visual y orden.
 
-### What you will learn
+### Lo que aprenderás
 
 - Selectores y reglas CSS.
 - Modelo de caja y espaciado.
 - Flexbox para layout.
 - Responsive básico.
 
-### What you will build
+### Lo que vas a construir
 
 Una página con tarjetas estilizadas y comportamiento responsive en móvil.
 
@@ -34,7 +34,7 @@ Una página con tarjetas estilizadas y comportamiento responsive en móvil.
 3. Usa Flexbox en una sección de tarjetas.
 4. Haz commits por cada mejora visual.
 
-### Step-by-step checklist
+### Checklist paso a paso
 
 - [ ] Vincular `styles.css` desde `index.html`.
 - [ ] Definir estilos base de tipografía.
@@ -47,11 +47,11 @@ Una página con tarjetas estilizadas y comportamiento responsive en móvil.
 
 - Logra que las tarjetas pasen de 3 columnas a 1 en móvil.
 
-### Deliverable
+### Entregable
 
-By the end of this week you should have: una página con estilos CSS ordenados y diseño responsive básico.
+Al finalizar esta semana debes tener: una página con estilos CSS ordenados y diseño responsive básico.
 
-### Common mistakes
+### Errores comunes
 
 - Olvidar enlazar `styles.css`.
 - Sobrescribir estilos por orden incorrecto.

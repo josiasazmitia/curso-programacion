@@ -4,13 +4,13 @@
 
 Dejar tu entorno listo y publicar tu primer repositorio.
 
-### What you will learn
+### Lo que aprenderás
 
 - Qué herramientas necesitas para empezar.
 - Cómo inicializar un repositorio con Git.
 - Cómo hacer tu primer commit y push.
 
-### What you will build
+### Lo que vas a construir
 
 Una página HTML mínima y tu primer repositorio público con historial de commits.
 
@@ -26,7 +26,7 @@ Una página HTML mínima y tu primer repositorio público con historial de commi
 4. Crea una carpeta llamada `mi-primera-web`.
 5. Copia el ejemplo de `ejemplos/index.html`.
 
-### Step-by-step checklist
+### Checklist paso a paso
 
 - [ ] Crear carpeta del proyecto.
 - [ ] Crear `index.html` y `README.md`.
@@ -56,11 +56,11 @@ Ejemplos de commit:
 - Agrega tu nombre y un objetivo personal.
 - Haz 3 commits pequeños.
 
-### Deliverable
+### Entregable
 
-By the end of this week you should have: un repositorio en GitHub con una página `index.html`, un `README.md` y al menos 3 commits.
+Al finalizar esta semana debes tener: un repositorio en GitHub con una página `index.html`, un `README.md` y al menos 3 commits.
 
-### Common mistakes
+### Errores comunes
 
 - Hacer un solo commit al final.
 - No revisar `git status` antes de commitear.

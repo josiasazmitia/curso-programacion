@@ -4,13 +4,13 @@
 
 Construir un e-commerce estático completo, sin lógica de negocio todavía.
 
-### What you will learn
+### Lo que aprenderás
 
 - Planificación visual de una interfaz.
 - Estructura de páginas conectadas.
 - Organización de estilos en un proyecto mediano.
 
-### What you will build
+### Lo que vas a construir
 
 Una maqueta de e-commerce con home, listado y detalle de producto.
 
@@ -30,7 +30,7 @@ Una maqueta de e-commerce con home, listado y detalle de producto.
 4. Crea una segunda página de detalle de producto.
 5. Conecta ambas páginas con enlaces.
 
-### Step-by-step checklist
+### Checklist paso a paso
 
 - [ ] Definir wireframe de la home.
 - [ ] Crear `index.html`.
@@ -43,11 +43,11 @@ Una maqueta de e-commerce con home, listado y detalle de producto.
 
 - Añade una sección de ofertas destacadas.
 
-### Deliverable
+### Entregable
 
-By the end of this week you should have: una maqueta estática navegable y publicada en GitHub.
+Al finalizar esta semana debes tener: una maqueta estática navegable y publicada en GitHub.
 
-### Common mistakes
+### Errores comunes
 
 - Mezclar todo en un solo archivo largo.
 - No enlazar correctamente `index.html` y `producto.html`.

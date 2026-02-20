@@ -4,13 +4,13 @@
 
 Empaquetar tu aprendizaje en un repositorio claro y compartible.
 
-### What you will learn
+### Lo que aprenderás
 
 - Cómo presentar proyectos de forma clara.
 - Cómo escribir un README útil.
 - Cómo cerrar una entrega profesional en GitHub.
 
-### What you will build
+### Lo que vas a construir
 
 Un portafolio con tus proyectos del curso y una documentación lista para compartir.
 
@@ -33,7 +33,7 @@ Un portafolio con tus proyectos del curso y una documentación lista para compar
 4. Revisa ortografía y enlaces.
 5. Publica en GitHub.
 
-### Step-by-step checklist
+### Checklist paso a paso
 
 - [ ] Crear estructura final del portafolio.
 - [ ] Incluir enlaces a repositorios por proyecto.
@@ -45,11 +45,11 @@ Un portafolio con tus proyectos del curso y una documentación lista para compar
 
 - Graba un video corto (1-2 min) mostrando tu portafolio.
 
-### Deliverable
+### Entregable
 
-By the end of this week you should have: un portafolio publicado, ordenado y listo para compartir.
+Al finalizar esta semana debes tener: un portafolio publicado, ordenado y listo para compartir.
 
-### Common mistakes
+### Errores comunes
 
 - Subir proyectos sin contexto ni README.
 - Dejar enlaces rotos.

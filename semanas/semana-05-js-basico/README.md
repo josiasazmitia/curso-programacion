@@ -4,13 +4,13 @@
 
 Aprender la lógica básica para manipular datos.
 
-### What you will learn
+### Lo que aprenderás
 
 - Variables y tipos de datos.
 - Condicionales y funciones.
 - Uso básico de arreglos y objetos.
 
-### What you will build
+### Lo que vas a construir
 
 Un script básico que calcule resultados y muestre salida en consola.
 
@@ -32,7 +32,7 @@ Un script básico que calcule resultados y muestre salida en consola.
 2. Ejecuta el código en la consola del navegador.
 3. Cambia los valores y observa resultados.
 
-### Step-by-step checklist
+### Checklist paso a paso
 
 - [ ] Crear `app.js`.
 - [ ] Declarar variables.
@@ -45,11 +45,11 @@ Un script básico que calcule resultados y muestre salida en consola.
 
 - Crear una función que calcule promedio de una lista de números.
 
-### Deliverable
+### Entregable
 
-By the end of this week you should have: un archivo `app.js` funcional con lógica básica y resultados comprobables.
+Al finalizar esta semana debes tener: un archivo `app.js` funcional con lógica básica y resultados comprobables.
 
-### Common mistakes
+### Errores comunes
 
 - Usar variables sin declararlas.
 - Confundir strings con números.

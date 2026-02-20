@@ -4,13 +4,13 @@
 
 Hacer que la página responda a acciones del usuario.
 
-### What you will learn
+### Lo que aprenderás
 
 - Seleccionar elementos del DOM.
 - Escuchar eventos de usuario.
 - Actualizar contenido en tiempo real.
 
-### What you will build
+### Lo que vas a construir
 
 Un contador interactivo con botones y actualización dinámica de texto.
 
@@ -32,7 +32,7 @@ Un contador interactivo con botones y actualización dinámica de texto.
 2. Escucha el clic con un evento.
 3. Actualiza el texto en pantalla.
 
-### Step-by-step checklist
+### Checklist paso a paso
 
 - [ ] Crear estructura HTML mínima.
 - [ ] Seleccionar nodos con `querySelector`.
@@ -45,11 +45,11 @@ Un contador interactivo con botones y actualización dinámica de texto.
 
 - Agrega botones para sumar y restar.
 
-### Deliverable
+### Entregable
 
-By the end of this week you should have: una página con interacción real del usuario usando DOM y eventos.
+Al finalizar esta semana debes tener: una página con interacción real del usuario usando DOM y eventos.
 
-### Common mistakes
+### Errores comunes
 
 - Escribir mal el selector (`#id` o `.clase`).
 - Cargar `app.js` antes del HTML sin control.

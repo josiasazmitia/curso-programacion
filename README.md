@@ -6,6 +6,10 @@ La idea principal es simple: aprender haciendo. Cada semana incluye una guía co
 
 Al finalizar, tendrás una base sólida en HTML, CSS y JavaScript, además de una rutina de trabajo con Git y GitHub para publicar tus avances.
 
+## Nota de lenguaje
+
+La guía está escrita en español claro para hispanohablantes de Guatemala y Latinoamérica, con términos simples y enfoque práctico.
+
 ## ¿Para quién es este curso?
 
 - Personas que empiezan desde cero.
@@ -42,25 +46,50 @@ Ejemplos de mensajes de commit:
 ├─ README.md
 ├─ .gitattributes
 ├─ .gitignore
-└─ semanas/
+├─ semanas/
+│  ├─ README.md
+│  ├─ semana-01-setup/
+│  ├─ semana-02-html/
+│  ├─ semana-03-css/
+│  ├─ semana-04-proyecto-maqueta/
+│  ├─ semana-05-js-basico/
+│  ├─ semana-06-dom-eventos/
+│  ├─ semana-07-apis/
+│  └─ semana-08-portafolio/
+└─ python/
    ├─ README.md
-   ├─ semana-01-setup/
-   ├─ semana-02-html/
-   ├─ semana-03-css/
-   ├─ semana-04-proyecto-maqueta/
-   ├─ semana-05-js-basico/
-   ├─ semana-06-dom-eventos/
-   ├─ semana-07-apis/
-   └─ semana-08-portafolio/
+   ├─ semana-01-fundamentos/
+   ├─ semana-02-control-flujo/
+   ├─ semana-03-funciones-y-colecciones/
+   ├─ semana-04-poo-basica/
+   └─ semana-05-archivos-y-json/
 ```
+
+## Nueva ruta paralela: Python
+
+Además de la ruta web, este repositorio ahora incluye una ruta Python para principiantes en [python/README.md](python/README.md).
+
+Esta ruta mantiene el mismo enfoque práctico: ejercicios cortos, progresión semanal y commits frecuentes. Incluye fundamentos, control de flujo, funciones, colecciones, POO básica y archivos con JSON.
+
+## Cómo estudiar ambas rutas en paralelo
+
+- Mantén la ruta web como principal (proyecto semanal).
+- Dedica 20 a 40 minutos al día a la ruta Python.
+- Usa Python para reforzar lógica y web para construir interfaces.
+- Haz commits separados por ruta para mantener un historial limpio.
+
+Ejemplo de rutina semanal:
+
+- 4 días: 60 minutos web + 20 minutos Python.
+- 2 días: solo práctica Python (30 a 40 minutos).
 
 ## Ruta de aprendizaje
 
 ### Mes 1: Web estática
 
-- Semana 01: Setup, Git y primera web.
+- Semana 01: Instalación inicial (Setup), Git y primera web.
 - Semana 02: Estructura HTML semántica.
-- Semana 03: Estilos con CSS y responsive básico.
+- Semana 03: Estilos con CSS y diseño adaptable básico.
 - Semana 04: Maqueta completa tipo e-commerce.
 
 ### Mes 2: Web dinámica
@@ -73,7 +102,7 @@ Ejemplos de mensajes de commit:
 ## Material semanal
 
 - [Ruta semanal](semanas/README.md)
-- [Semana 01 - Setup](semanas/semana-01-setup/README.md)
+- [Semana 01 - Instalación inicial (Setup)](semanas/semana-01-setup/README.md)
 - [Semana 02 - HTML](semanas/semana-02-html/README.md)
 - [Semana 03 - CSS](semanas/semana-03-css/README.md)
 - [Semana 04 - Maqueta](semanas/semana-04-proyecto-maqueta/README.md)
@@ -81,6 +110,15 @@ Ejemplos de mensajes de commit:
 - [Semana 06 - DOM y eventos](semanas/semana-06-dom-eventos/README.md)
 - [Semana 07 - APIs](semanas/semana-07-apis/README.md)
 - [Semana 08 - Portafolio](semanas/semana-08-portafolio/README.md)
+
+## Material Python
+
+- [Ruta Python](python/README.md)
+- [Semana 01 - Fundamentos](python/semana-01-fundamentos/README.md)
+- [Semana 02 - Control de flujo](python/semana-02-control-flujo/README.md)
+- [Semana 03 - Funciones y colecciones](python/semana-03-funciones-y-colecciones/README.md)
+- [Semana 04 - POO básica](python/semana-04-poo-basica/README.md)
+- [Semana 05 - Archivos y JSON](python/semana-05-archivos-y-json/README.md)
 
 ## Referencias recomendadas (gratuitas)
 

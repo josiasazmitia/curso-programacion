@@ -4,7 +4,7 @@ Este índice organiza el aprendizaje en 8 semanas, de lo más básico a un porta
 
 ## Orden sugerido
 
-1. [Semana 01 - Setup](semana-01-setup/README.md)
+1. [Semana 01 - Instalación inicial (Setup)](semana-01-setup/README.md)
 2. [Semana 02 - HTML](semana-02-html/README.md)
 3. [Semana 03 - CSS](semana-03-css/README.md)
 4. [Semana 04 - Maqueta completa](semana-04-proyecto-maqueta/README.md)
